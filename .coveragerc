@@ -1,0 +1,3 @@
+[run]
+source = untitled1
+omit = untitled1/test*
